@@ -1,0 +1,1989 @@
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX I 
+ 
+TECHNICAL SHEET OR SUMMARY OF PRODUCT CHARACTERISTICS 2 1. NAME OF THE MEDICINAL PRODUCT  
+ 
+Azacitidine Accord 25 mg/ml powder for suspension for injection   
+ 
+ 
+2. QUALITATIVE AND QUANTITATIVE COMPOSITION  
+ 
+100 mg vial:  
+Each vial contains 100 mg of azacitidine. After reconstitution, each ml of the suspension 
+contains 25 mg of azacitidine.  
+ 
+150 mg vial:  
+Each vial contains 150 mg of azacitidine. After reconstitution, each ml of the suspension 
+contains 25 mg of azacitidine.  
+ 
+For the complete list of excipients, see section 6.1. 
+ 
+ 
+3. PHARMACEUTICAL FORM  
+ 
+Powder for suspension for injection.  
+ 
+Compacted or uncompacted white lyophilized powder. 
+ 
+ 
+4. CLINICAL DATA  
+ 
+4.1 Therapeutic indications  
+ 
+Azacitidine Accord is indicated for the treatment of adult patients who are not considered 
+candidates for hematopoietic stem cell transplant (HSCT) and who suffer from:  
+- Intermediate 2 and high-risk myelodysplastic syndromes (MDS), according to the international system 
+prognostic score (IPSS).  
+- Chronic myelomonocytic leukemia (CMML) with 10 to 29% of bone marrow blasts without disorder 
+myeloproliferative.  
+- Acute myeloid leukemia (AML) with 20 to 30% blasts and multiline dysplasia, depending on the 
+classification of the World Health Organization (WHO).  
+- AML with >30% marrow blasts according to the WHO classification.  
+ 
+4.2 Dosage and method of administration  
+ 
+Treatment with Azacitidine Accord should be initiated and monitored under the supervision of a physician. 
+with experience in the use of chemotherapeutic drugs. Patients must be treated 
+previously with antiemetics for nausea and vomiting.  
+ 
+Posology  
+The recommended starting dose for the first treatment cycle, for all patients, 
+regardless of the initial hematological values, it is 75 mg/m2 of body surface, 
+injected subcutaneously, daily, for seven days, followed by a period of rest 
+21 days (28-day treatment cycle).  
+ 
+It is recommended that patients receive treatment for a minimum of six cycles. The treatment 
+It should be continued as long as the patient continues to benefit or until disease progression.  
+ 
+Patients should be monitored for hematologic response/toxicity and renal toxicity (see 
+section 4.4); a delay in the start of the next cycle or a reduction of one cycle may be necessary. 
+dose, as explained below.  3  
+Azacitidine Accord should not be interchanged with oral azacitidine. Due to differences in the 
+exposure, dosage recommendations and dosing guidelines for oral azacitidine are different to 
+those of injectable azacitidine. It is recommended that healthcare professionals verify the name 
+of the medication, the dose and the route of administration.  
+ 
+Laboratory analysis  
+Before starting treatment and before each treatment cycle, blood tests should be performed. 
+liver function and serum creatinine and serum bicarbonate were determined. They must be carried out 
+complete blood counts before the start of treatment and when necessary to 
+monitor response and toxicity, but at a minimum, before each treatment cycle.  
+ 
+Dose adjustment due to hematologic toxicity  
+Hematological toxicity is defined as the lowest blood count reached (nadir) in a 
+given cycle, if the platelet count is ≤50.0 × 109/l or the absolute neutrophil count 
+(RAN) is ≤1 × 109/l. 
+ 
+Recovery is defined as an increase in the cell line(s) in which a 
+hematological toxicity, at least equal to half the absolute difference between the nadir and the 
+initial count, plus the nadir count; i.e. blood count at recovery ≥count 
+nadir + (0.5 × [initial count – nadir count]).  
+ 
+Patients without a decrease in baseline blood counts (i.e. white blood cells ≥3.0 × 109/l 
+and ANC ≥1.5 × 109/l, and platelet count ≥75.0 × 109/l) before the first treatment  
+If hematological toxicity is observed after treatment with Azacitidine Accord, the following 
+Treatment cycle should be delayed until platelet count and ANC have recovered. 
+If recovery is achieved within 14 days, no adjustment of thedose. Without 
+However, if recovery has not been achieved within 14 days, the dose should be reduced according to the 
+following table. After dose modifications, the cycle length should again be 
+of 28 days. 
+ 
+Nadir cycle Dose in the next cycle, if the 
+recovery* is not achieved in a 
+within 14 days (%) ANC (× 109/l) Platelets (× 109/l) 
+≤1.0 ≤50.0 50% 
+>1.0 >50.0 100% 
+*Recovery = counts ≥nadir count + (0.5 × [initial count – nadir count]).  
+ 
+Patients with reduced baseline blood counts (i.e. leukocytes <3.0 × 109/L or ANC 
+<1.5 × 109/l or platelet count <75.0 × 109/l) before first treatment  
+After treatment with Azacitidine Accord, if the ANC white blood cell count decreases 
+or the platelet count relative to the count before treatment is ≤50% or greater than 50%, 
+but with improvement in the differentiation of any cell line, the next cycle should not 
+be delayed and no dose adjustment should be made.  
+ 
+If the decrease in ANC white blood cell count or platelet count is more than 50% 
+with respect to the count before treatment, and there is no improvement in the differentiation of lines 
+cells, the next cycle of treatment with Azacitidine Accord should be delayed until the 
+platelet count and ANC have recovered.  If recovery is achieved within a period 
+After 14 days, no dose adjustment is necessary. However, if recovery has not been achieved in 
+Within 14 days, bone marrow cellularity should be determined. If the cellularity of the marrow 
+bone is >50%, no dose adjustment should be made. If bone marrow cellularity is ≤50%, 
+Treatment should be delayed and the dose reduced, according to the following table:  
+ 4 Bone marrow cellularity Dose in the next cycle, if recovery is not achieved in 
+a period of 14 days (%) 
+ Recovery* ≤21 days Recovery* >21 days 
+15-50% 100% 50% 
+<15% 100% 33% 
+*Recovery = counts ≥nadir count + (0.5 × [initial count – nadir count]).  
+ 
+After dose modifications, the duration of the next cycle should return to 28 days. 
+ 
+Special populations: 
+Elderly patients  
+No specific dose adjustment is recommended in elderly patients. Since 
+Elderly patients are more likely to have deterioration in kidney function, may 
+It is advisable to monitor kidney function.  
+ 
+Renal insufficiency  
+Azacitidine can be administered to patients with renal failure without the need for dose adjustment 
+initial (see section 5.2). If unexplained decreases in bicarbonate levels occur 
+serum level less than 20 mmol/l, the dose should be decreased by 50% in the next cycle. Whether 
+cause unexplained increases in serum creatinine or blood urea nitrogen (BNU) at 
+≥2 times higher than the initial values ​​and higher than the upper limit of normal (ULN), the 
+The next cycle should be delayed until the values ​​return to normal or initial values, 
+and the dose should be decreased by 50% in the next treatment cycle (see section 4.4). 
+ 
+Liver failure  
+No formal studies have been performed in patients with hepatic impairment (see section 4.4). HE 
+Adverse reactions should be carefully monitored in patients with hepatic organ failure. 
+serious.  Prior to initial treatment, no specific dose modification is recommended. 
+initial in patients with liver failure; subsequent dose modifications should 
+based on hematological values. Azacitidine Accord is contraindicated in patients with 
+advanced malignant liver tumors (see sections 4.3 and 4.4). 
+ 
+Pediatric population  
+The safety and effectiveness of azacitidine in children 0 to 17 years of age have not been established. The data 
+currently available are described in sections 4.8, 5.1 and 5.2; however, it cannot be done 
+a dosage recommendation.  
+ 
+Administration method  
+Reconstituted Azacitidine Accord should be injected subcutaneously into the arm, thigh, or 
+abdomen. Injection sites should be rotated.  The new injections must 
+be administered at least 2.5 cm away from the previous place and never in sensitive areasible, with 
+ecchymosis, redness or hardening.  
+ 
+After reconstitution, the suspension should not be filtered.  To consult the instructions for 
+reconstitution of the medicinal product before administration, see section 6.6. 
+ 
+4.3 Contraindications  
+ 
+Hypersensitivity to the active ingredient or to any of the excipients included in section 6.1. 
+ 
+Advanced malignant liver tumors (see section 4.4). 
+ 
+Breastfeeding (see section 4.6). 
+ 5 4.4 Special warnings and precautions for use  
+ 
+Hematological toxicity  
+Azacitidine treatment is associated with anemia, neutropenia, and thrombocytopenia, especially in 
+the first two cycles (see section 4.8). Complete blood counts should be performed when 
+necessary to monitor response and toxicity, but at least before each cycle of 
+treatment . After administration of the recommended dose for the first cycle, the dose for 
+subsequent cycles should be reduced or their administration should be delayed depending on the nadir count and 
+hematological response (see section 4.2). Patients should be advised to report 
+immediately febrile episodes.  Patients and physicians are advised to be alert to the 
+presence of signs and symptoms of bleeding.  
+ 
+Liver failure  
+No formal studies have been performed in patients with hepatic impairment.  Cases have been reported 
+of progressive hepatic coma and death during treatment with azacitidine in patients with a 
+extensive tumor burden due to metastatic disease, especially in patients with high levels of 
+initial serum albumin <30 g/l. Azacitidine is contraindicated in patients with liver tumors 
+advanced malignancies (see section 4.3). 
+ 
+Renal insufficiency  
+In patients treated with intravenous azacitidine in combination with other drugs 
+chemotherapeutics, renal abnormalities have been reported ranging from an increase in creatinine 
+serum and renal failure and death. Additionally, five patients with chronic myeloid leukemia (CML), 
+treated with azacitidine and etoposide, developed renal tubular acidosis, defined as a 
+decrease in serum bicarbonate to <20 mmol/l, associated with alkaline urine and hypokalemia (potassium 
+serum <3 mmol/l). If unexplained decreases in serum bicarbonate (<20 mmol/l) occur or 
+increases in serum creatinine or NUS, the dose should be decreased or administration should 
+be delayed (see section 4.2). 
+ 
+Patients should be informed to immediately report oliguria and anuria to the physician.  
+ 
+Although no clinically relevant differences were observed in the frequency of reactions 
+adverse effects among subjects with normal renal function compared to those with 
+renal failure, toxicity should be carefully monitored in patients with renal failure, 
+since azacitidine and/or its metabolites are mainly excreted by the kidney (see section 4.2). 
+ 
+Laboratory analysis  
+Before starting treatment and before each treatment cycle, blood tests should be performed. 
+liver function and serum creatinine and serum bicarbonate were determined. They must be carried out 
+complete blood counts before the start of treatment and when necessary to monitor 
+response and toxicity, but at a minimum, before each treatment cycle, see also 
+section 4.8. 
+ 
+Heart disease and lung disease  
+Patients with a history of severe congestive heart failure, clinically 
+unstable or lung disease were excluded from the pivotal registry studies (AZA PH 
+GL 2003 CL 001 and AZA -AML -001); therefore, the safety and effectiveness of 
+azacitidine in these patients.  Recent data from a clinical study in patients with a history 
+known cardiovascular or pulmonary disease showed a significant increase in 
+incidence of cardiac events with azacitidine (see section 4.8). Therefore, it is advised 
+Caution when prescribing azacitidine to these patients. An evaluation should be considered 
+cardiopulmonary before and during treatment.  
+ 
+Necrotizing fasciitis  
+Cases of necrotizing fasciitis, including fatal cases, have been reported in patients treated with 
+azacitidine. Azacitidine treatment should be discontinued in patients who develop fasciitis. 
+necrosante and appropriate treatment should be started immediately.  6  
+Tumor lysis syndrome  
+Patients at risk of suffering from this syndrome are those who have a tumor burden 
+elevated before treatment. These patients should be closely monitored and appropriate 
+proper precautions.  
+ 
+Differentiation syndrome  
+Cases of differentiation syndrome (also known as acidic acid syndrome) have been reported. 
+retinoic acid) in patients receiving injectable azacitidine. Differentiation syndrome can be 
+fatal and symptoms and clinical findings include respiratory distress, pulmonary infiltrates, 
+fever, rash, pulmonary edema, peripheral edema, rapid weight gain, pleural effusion, 
+pericardial effusion, hypotension and renal dysfunction (see section 4.8). You should consider the 
+treatment with high doses of IV corticosteroids and hemodynamic monitoring at the onset of symptoms 
+and signs suggesting differentiation syndrome. Consideration should be given to temporarily suspending 
+azacitidine injection until resolution of symptoms and if resumed, caution is advised.  
+ 
+4.5 Interaction with other medicinal products and other forms of interaction  
+ 
+From the information obtained in vitro, it appears that the metabolism of azacitidine is not 
+mediated by cytochrome P45 0 (CYP) isoenzymes, UDP-glucuronosyltransferases (UGT), 
+sulfotransferases (SULT) and glutathione transferases (GST); Therefore, the interactions related 
+with these metabolizing enzymes in vivo are considered unlikely.  
+ 
+The clinically significant inhibitory or inductive effects of azacitidine on enzymes of the 
+cytochrome P45 0 are unlikely (see section 5.2). 
+ 
+No formal clinical drug interaction studies have been performed with azacitidine.  
+ 
+4.6 Fertility, pregnancy and lactation  
+ 
+Women of childbearing age / Contraception in men and women  
+Women of childbearing potential should use effective contraception for and for at least 6  
+months after finishing treatment.  Men should be advised not to father a child 
+while receiving treatment and must use effective contraception for and for at least 3 
+months after finishing treatment.  
+ 
+Pregnancy  
+There are insufficient data regarding the use of azacitidine in pregnant women. The studies in 
+Mice have shown reproductive toxicity (see section 5.3). The risk in humans is unknown. 
+humans. Based on the results of animal studies and its mechanism of action, 
+Azacitidine should not be used during pregnancy, especially during the first trimester, unless 
+that is clearly necessary. The benefits of treatment must be weighed against the potential risk. 
+for the fetus in each specific case.  
+ 
+Lactation  
+It is unknown whether azacitidine/metabolites are excreted in breast milk. Due to the possible 
+serious adverse reactions in the nursing child, breastfeeding is contraindicated during treatment 
+with azacitidine.  
+ 
+Fertility  
+There is no information about the effect of azacitidine on fertility in humans. in animals 
+Adverse reactions have been documented with the use of azacitidine on male fertility (see 
+section 5.3). Before starting treatment, male patients should be advised to ask for 
+Advice on sperm conservation.  
+ 7 4.7 Effects on the ability to drive and use machines  
+ 
+The influence of azacitidine on the ability to drive and use machines is small or 
+moderate. Fatigue has been reported with the use of azacitidine. Therefore, caution is recommended when 
+drive a vehicle or use machines.  
+ 
+4.8 Adverse reactions  
+ 
+Security Profile Summary  
+Adult population with MDS, CMML and AML (20-30% of medullary blasts) 
+Adverse reactions considered possible or have occurred in 97% of patients. 
+probably related to the administration of azacitidine. 
+ 
+The most common serious adverse reactions observed in the pivotal trial 
+(AZA PH GL 2003 CL 001) were febrile neutropenia (8.0%) and anemia (2.3%), which were also 
+described in the complementary trials (CALGB 9221 and CALGB 8921). Other reactions 
+Serious adverse events in these 3 studies were infections such as neutropenic sepsis (0.8%) and 
+pneumonia (2.5%) (some fatal),thrombocytopenia (3.5%), 
+hypersensitivity (0.25%) and hemorrhagic reactions (e.g., cerebral hemorrhage [0.5%], 
+gastrointestinal hemorrhage [0.8%] and intracranial hemorrhage [0.5%]). 
+ 
+The most frequently reported adverse reactions with azacitidine treatment were 
+hematological reactions (71.4%), including thrombocytopenia, neutropenia and leukopenia 
+(usually grade 3 or 4); gastrointestinal reactions (60.6%), including nausea, vomiting 
+(usually grade 1 or 2), or injection site reactions (77.1%; usually 
+grade 1 or 2). 
+ 
+Adult population aged 65 years or older with AML with >30% marrow blasts  
+The most common serious adverse reactions (≥10%) observed in the treatment group with  
+azacitidin a from the AZA -AML -001 study were febrile neutropenia (25.0%), pneumonia (20.3%) and 
+pyrexia (10.6%). Other serious adverse reactions reported less frequently in the group 
+treatment with azacitidine were sepsis (5.1%), anemia (4.2%), neutropenic sepsis (3.0%), 
+urinary tract infection (3.0%), thrombocytopenia (2.5%), neutropenia (2.1%), cellulitis (2.1%), 
+dizziness (2.1%) and dyspnea (2.1%). 
+ 
+Most frequently reported adverse reactions (≥30%) with azacitidine treatment 
+were gastrointestinal reactions, including constipation (41.9%), nausea (39.8%) and diarrhea  
+(36.9%; generally grade 1 or 2), general disorders and alterations at the site of 
+administration including pyrexia (37.7%; usually grade 1 or 2) and hematological reactions, 
+including febrile neutropenia (32.2%) and neutropenia (30.1%; usually grade 3 or 4). 
+ 
+Table of adverse reactions  
+Table 1 below contains the adverse reactions associated with treatment with 
+azacitidine, obtained from the main clinical trials in patients with MDS and AML and from the 
+post-marketing experience. 
+ 
+Frequencies are defined as: Very common (≥1/10); common (≥1/10 0 to <1/10); bit 
+frequent (≥1/1.00 0 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), frequency not 
+known (cannot be estimated from available data). Adverse reactions are listed 
+in decreasing order of severity within each frequency interval. The adverse reactions are 
+listed in the table below according to the highest frequency observed in any of the trials 
+main clinicians. 
+ 8 Table 1: Adverse reactions reported in patients with MDS or AML treated with 
+Azacitidine (clinical trials and post-marketing experience)  
+ 
+System of 
+Clasification of 
+Very common organs  
+ Frequent  
+ Uncommon  
+ rare  
+ Frequency not 
+known  
+infections and 
+Pneumonia infestations*  
+(includes 
+bacterial, viral and 
+fungal), 
+Nasopharyngitis Sepsis* 
+(includes 
+bacterial, 
+viral and 
+fungal), 
+sepsis 
+neutropenic*, 
+infection of the 
+ways 
+respiratory  
+(includes roads 
+respiratory  
+high and 
+bronchitis) , 
+infection of the 
+urinary tract, 
+cellulitis, 
+diverticulitis, 
+infection 
+oral fungal, 
+sinusitis, 
+pharyngitis, 
+rhinitis, herpes 
+simple , 
+infection 
+cutaneous Fasciitis 
+necrotizing*  
+Neoplasms 
+benign, malignant 
+and not specified 
+(including cysts 
+and polyps) Syndrome 
+differentiation *,
+to 
+Disorders of the 
+blood and 
+lymphatic system Neutropenia 
+feverish *, 
+neutropenia, 
+leukopenia, 
+thrombocytopenia, 
+anemia Pancytopenia*, 
+insufficiency 
+medullary     
+Disorders of 
+system 
+immunological reactions 
+hypersensitivity
+d   
+Disorders of 
+metabolism and 
+nutrition Anorexia, loss 
+of appetite, 
+Hypokalemia Dehydration Syndrome 
+of lysis 
+tumor   
+Disorders 
+Psychiatric Insomnia State of 
+confusion, 
+Anxiety 9 System 
+Clasification of 
+Very common organs  
+ Frequent  
+ Uncommon  
+ rare  
+ Frequency not 
+known  
+Disorders of 
+nervous system Dizziness, headache Bleeding 
+intracranial *, 
+syncope, 
+drowsiness , 
+lethargy     
+Disorders 
+eye hemorrhage 
+ocular, 
+hemorrhage 
+conjunctival     
+Disorders  
+cardiac Stroke 
+pericardial pericarditis    
+Disorders 
+vascular Hypotension*, 
+hypertension, 
+hypotension 
+orthostatic, 
+hematoma     
+Disorders 
+respiratory, 
+thoracic and 
+mediastinal Dyspnea, epistaxis Effusion 
+pleural, d isnea 
+of effort, 
+pain 
+pharyngolaryngeor illness
+d pulmonary 
+interstitial   
+Disorders 
+gastrointestinal Diarrhea, vomiting, 
+constipation, 
+nausea, pain 
+abdominal (includes 
+abdominal pain 
+top and 
+inconvenience 
+abdominal) Bleeding 
+gastrointestinal
+* (includes 
+hemorrhage 
+buccal), 
+hemorrhage 
+hemorrhoidal, 
+stomatitis, 
+hemorrhage 
+gingival, 
+dyspepsia     
+Disorders 
+hepatobiliary insufficiency 
+hepatic*, coma 
+hepatic 
+progressive    
+Disorders of the 
+skin and fabric 
+subcutaneous Petechiae, pruritus  
+(includes pruritus 
+widespread), 
+exanthema, 
+Purple ecchymosis, 
+alopecia, 
+urticaria, 
+erythema, 
+exanthema 
+macular dermatosis 
+neutrophilic 
+acute febrile, 
+pyoderma 
+gangrenous vasculitis 
+cutaneous  
+Disorders 
+musculoskeletal
+s and fabric 
+conjunctive Arthralgia, pain 
+musculoskeletal
+or (includes pain of 
+back, bone 
+and of the 
+extremities) Spasms 
+muscular, 
+myalgia     
+Kidney disorders 
+and urinary insufficiency 
+renal*, 
+hematuria, 
+elevation of the 
+serum creatinine Tubular acidosis 
+kidney 10 System 
+Clasification of 
+Very common organs  
+ Frequent  
+ Uncommon  
+ rare  
+ Frequency not 
+known  
+Disorders 
+general and 
+alterations in the 
+instead of 
+administration Pyrexia*, fatigue, 
+asthenia, pain 
+thoracic, erythema 
+in the place of the 
+injection, pain in 
+the place of the 
+injection, reaction 
+(not specified) 
+in the place of the 
+Ecchymosis injection, 
+hematoma, 
+induration, 
+exanthema, 
+pruritus, 
+inflammation, 
+discoloration, 
+nodule and 
+hemorrhage (in 
+the place of the 
+injection), 
+discomfort, 
+shaking chills, 
+hemorrhage in 
+the place of 
+Necrosis catheter 
+the place of 
+injection 
+(in the place 
+of the 
+injection)   
+Explorations 
+complementary Reduction of 
+weight     
+* = fatal cases have rarely been reported  
+a = see section 4.4 
+ 
+Description of selected adverse reactions  
+Hematological adverse reactions  
+The most frequently reported hematological adverse reactions (≥10%) associated with 
+treatment with azacitidine, include anemia, thrombocytopenia, neutropenia, febrile neutropenia, and 
+leukopenia, usually grade 3 or 4. There is an increased risk of these reactions occurring 
+in the first two cycles, after which they occur less frequently and patients 
+restore hematological function. Most hematological adverse reactions are 
+controlled by routine monitoring of complete blood counts and delaying 
+administration of azacitidine in the next cycle, prophylactic antibiotics and/or support with factor 
+growth (e.g., G-CSF) for neutropenia, and transfusions for anemia or thrombocytopenia, 
+as necessary.  
+ 
+Infections  
+Myelosuppression can lead to neutropenia and an increased risk of infection. In patients 
+Serious adverse reactions such as sepsis have been reported in those who have received azacitidine, including 
+neutropenic sepsis and pneumonia, some with fatal outcomes. Infections can be treated with 
+use of an anti-infective and growth factor reinforcement (e.g., G-CSF) for neutropenia.  
+ 
+Hemorrhages  
+Bleeding may occur in patients receiving azacitidine. reactions have been reported 
+serious adverse events, such as gastrointestinal bleeding and intracranial hemorrhage. The presence of 
+signs and symptoms of bleeding in patients, especially those with thrombocytopenia 
+preexisting or related to treatment.  
+ 
+Hypersensitivity  
+Serious hypersensitivity reactions have been reported in patients receiving azacitidine. In 
+In case of anaphylactic reaction, treatment with azacitidine should be stopped immediately and 
+Initiate appropriate symptomatic treatment.  
+ 11 Adverse reactions of the skin and subcutaneous tissue  
+Most cutaneous and subcutaneous tissue adverse reactions were related to the site of 
+the injection. In the pivotal trials, none of these adverse reactions led to discontinuation of the 
+treatment with azacitidine, nor to the reduction of the dose of azacitidine. Most of the 
+Adverse reactions occurred in the first two treatment cycles and tended to decrease in 
+subsequent cycles. Adverse reactions of the subcutaneous tissue or, as 
+rash/swelling/pruritus at the injection site, rash, erythema and skin lesion may 
+require treatment with a medicationconcomitant use, such as antihistamines, corticosteroids and 
+non-steroidal anti-inflammatory drugs (NSAIDs).  These skin reactions are due 
+differentiate from soft tissue infections, which sometimes occur at the site of 
+injection. Cases of soft tissue infection, including cellulitis and fasciitis, have been reported. 
+necrotizing, which rarely led to death, in patients treated with azacitidine in the 
+post-marketing area. For the clinical management of infectious adverse reactions, see 
+section 4.8 Infections.  
+ 
+Gastrointestinal adverse reactions  
+The most frequently reported gastrointestinal adverse reactions related to 
+treatment with azacitidine, included constipation, diarrhea, nausea and vomiting. These reactions 
+adverse events were treated symptomatically with antiemetics for nausea and vomiting, antidiarrheals 
+for diarrhea, and laxatives and/or stool softeners for constipation.  
+ 
+Renal adverse reactions  
+Renal abnormalities ranging from 
+elevation of serum creatinine and hematuria to renal tubular acidosis, renal failure and death 
+(see section 4.4). 
+ 
+Hepatic adverse reactions  
+In patients with a high tumor burden due to metastatic disease, the appearance of 
+liver failure, progressive hepatic coma, and death during azacitidine treatment (see 
+section 4.4). 
+ 
+Cardiac events  
+Data from a clinical study that allowed the inclusion of patients with a known history of 
+cardiovascular or pulmonary disease showed an increase in cardiac events in 
+patients with newly diagnosed AML treated with azacitidine (see section 4.4). 
+ 
+Elderly patients  
+Limited information is available on the safety of azacitidine in patients ≥ 85 years of age. 
+(with 14 [5.9%] patients ≥85 years treated in the AZA -AML -001 study).  
+ 
+Pediatric population  
+In the AZA -JMML -001 study, 28 pediatric patients (1 month to less than 18 years of age) 
+received azacitidine treatment for MDS (n = 10) or juvenile myelomonocytic leukemia 
+(LMMJ) (n = 18) (see section 5.1). All 28 patients experienced at least 1 event 
+adverse event and 17 (60.7%) experienced at least 1 treatment-related event. The 
+Most frequently reported adverse events in the overall pediatric population were 
+pyrexia, hematologic events, including anemia, thrombocytopenia, and febrile neutropenia, and 
+gastrointestinal events, including constipation and vomiting. Three (3) subjects 
+experienced a treatment event that led to discontinuation of treatment with 
+the drug (pyrexia, disease progression and abdominal pain). In the AZA -AML -004 study, 7 
+Pediatric patients (2 to 12 years of age) were treated with azacitidine for AML in 
+molecular relapse after a first remission [CR1] (see section 5.1).  
+ 
+All 7 patients experienced at least 1 treatment-related adverse event. 
+The most frequently reported adverse events were neutropenia, nausea, 
+leukopenia, thrombocytopenia, diarrhea and elevation of alanine aminotransferase (ALT). two patients 
+experienced a treatment-related event that resulted in discontinuation of the 12th dose (febrile neutropenia, neutropenia). No new safety signals were identified in the 
+limited number of pediatric patients treated with azacitidine during the course of the study 
+clinical. The overall safety profile was compatible with that of the adult population.  
+ 
+Reporting of suspected adverse reactions  
+It is important to report suspected adverse reactions to the medication after authorization. It 
+allows continuous monitoring of the benefit/risk ratio of the medicine. The 
+healthcare professionals to report suspected adverse reactions through the national system 
+notification included in Appendix V. 
+ 
+4.9 Overdose  
+ 
+One case of overdose with azacitidine was reported during clinical studies. One patient suffered 
+diarrhea, nausea, and vomiting after receiving a single intravenous dose of 
+approximately 290 mg/m2, almost four times the recommended starting dose.  
+ 
+in caseoverdose, the patient should be monitored for appropriate blood counts and should 
+receive supportive treatment as necessary. There is no known specific antidote for 
+Azacitidine overdose.  
+ 
+ 
+5. PHARMACOLOGICAL PROPERTIES  
+ 
+5.1 Pharmacodynamic properties  
+ 
+Pharmacotherapeutic group: Antineoplastic agent, pyrimidine analogues; ATC code: L01BC07  
+ 
+Mechanism of action  
+Azacitidine is believed to exert its antineoplastic effects through various mechanisms, including 
+cytotoxicity on abnormal hematopoietic cells in the bone marrow and hypomethylation of 
+DNA. The cytotoxic effects of azacitidine may be due to various mechanisms, including 
+inhibition of DNA, RNA and protein synthesis, incorporation into RNA and DNA, and 
+activation of pathways that cause DNA damage. Non-proliferating cells are relatively 
+insensitive to azacitidine. The incorporation of azacytidine into DNA produces the inhibition of 
+DNA methyltransferases, leading to DNA hypomethylation. DNA hypomethylation 
+aberrantly methylated genes, which are involved in normal cell cycle regulation pathways, 
+differentiation and death can produce the re-expression of genes and the restoration of functions 
+cancer suppressors in cancer cells. The relative importance of the 
+DNA hypomethylation versus cytotoxicity or other activities of azacitidine with the outcomes 
+clinical.  
+ 
+Clinical efficacy and safety  
+Adult population (MDS, CMML and AML [20-30% medullary blasts]) 
+The efficacy and safety of azacitidine were studied in an international comparative trial, 
+multicenter, controlled, open, randomized, with parallel groups and phase III 
+(AZA PH GL 2003 CL 001), in adult patients with: intermediate 2 and high-risk MDS, according to the 
+international prognostic scoring system (IPSS), refractory anemia with excess blasts 
+(RAEB), refractory anemia with excess blasts in transformation (RAEB -T) and leukemia 
+modified chronic myelomonocytic disease (mCMML) according to the classification system 
+French-American-British (FAB). Currently, in the current WHO classification system, 
+considers that patients with RAEB -T (21 to 30% blasts) are patients with AML. HE 
+compared treatment with azacitidine plus best supportive care (BSC) (n = 179) with 
+conventional care guidelines (CCP). PCCs consisted of BSC alone (n = 105), cytarabine 
+low-dose plus BSC (n = 49) or standard induction chemotherapy plus BSC (n = 25). Before 
+After random assignment, patients were preselected by their physician for one of the three 
+PCC. Patients received this preselected regimen if they were not randomly assigned to 
+receive azacitidine. As part of the inclusion criteria, patients were required to have an Eastern Cooperative Oncology Group performance status of 0 to 2. 
+Group, ECOG). Patients with secondary MDS were excluded from the trial. The primary variable of 
+trial was overall survival. Azacitidine was administered at a dose subcutaneously 
+of 75 mg/m2 daily, for seven days, followed by a rest period of 21 days (cycle of 
+28-day treatment), for a median of nine cycles (range = 1-39), and a median 
+of 10.2 cycles. Within the intention-to-treat (ITT) population, the median age was 69 years 
+(range from 38 to 88 years).  
+ 
+In the ITT analysis of 358 patients (17 9 receiving azacitidine and 179 PCC), treatment with 
+azacitidine was associated with a median survival of 24.46 months, compared 
+with 15.02 months in the case of those who received the PCC treatment, a difference of 9.4 months, 
+with a stratified log-rank p value of 0.0001. The risk ratio (RR) for 
+treatment effect was 0.58 (95% CI: 0.43-0.77). Two-year survival rates were 
+50.8% for patients treated with azacitidine, compared to 26.2% for 
+patients who received PCC (p <0.0001).  
+ 
+LEGEND: AZA = azacytidine; CI = confidence interval; PCC = care guidelines 
+conventional; RR = risk ratio. 
+ 
+The survival benefits of azacitidine were consistent regardless ofand of the 
+PCC treatment option (BSC alone, low-dose cytarabine plus BSC, or chemotherapy 
+standard induction plus BSC) used in the control group.  
+ 
+When IPSS cytogenetic subgroups were analyzed, similar results were observed in 
+regarding the median overall survival in all groups (good cytogenetic, intermediate, 
+deficient, including monosomy 7). 
+ 
+In the age subgroup analyses, an increase in median survival was observed 
+overall in all groups (<65 years, ≥65 years and ≥75 years).  
+ 
+Azacitidine treatment was associated with a median time to death or transformation 
+in AML of 13.0 months, compared with 7.6 months in patients who received treatment 
+PCC, an improvement of 5.4 months with a stratified log-rank p value of 0.0025.  
+ 
+PCC 
+  log-rank p = 0.0001    
+RR=0.58 [95% CI: 0.43 - 0.77]   
+Death: AZA = 82, PCC = 113   
+Time (months since randomization) Surviving proportion    
+  
+Number at risk 24.46  
+months  
+  
+15.02  
+months    
+26.2% 50.8% 14 Treatment with azacitidine was also associated with a decrease in cytopenias and their symptoms 
+related. Treatment with azacitidine led to a decrease in the need for transfusions 
+of red blood cells and platelets. Of the patients in the group treated with azacitidine who were dependent 
+of the red blood cell transfusion at the beginning, 45.0% of these patients became independent of the 
+red blood cell transfusion during the treatment period, compared to 11.4% of 
+patients in the combined groups treated with conventional care regimens (a difference 
+statistically significant [p <0.0001] of 33.6% [95% CI: 22.4-44.6]). In patients who 
+were dependent on red blood cell transfusion at the beginning and who became independent, the median 
+The duration of independence from red blood cell transfusion was 13 months in the group that received 
+azacitidine.  
+ 
+The response was evaluated by the investigator or by an independent review committee (IRC). The 
+total response (complete remission [CR] + partial remission [PR]) determined by the investigator was 
+29% in the group treated with azacitidine and 12% in the group combined with care guidelines 
+conventional (p = 0.0001). The total response (CR + PR) determined by the CRI in the trial 
+AZA PH GL 2003 CL 001 was 7% (12/179) in the azacitidine-treated group, compared 
+with 1% (2/179) in the group combined with conventional care guidelines (p = 0.0113). The 
+Differences between response assessments by the CRI and by the investigator occurred 
+consequence of the criteria of the International Working Group (IWG), 
+requiring improvement in peripheral blood counts and maintenance of these improvements 
+for a minimum of 56 days. A survival benefit was also demonstrated in 
+patients who had not achieved a complete or partial response after treatment with 
+azacitidine. Hematological improvement (major or minor), as determined by the CRI, was achieved in 
+49% of patients who received azacitidine, compared to 29% of patients 
+combined treated with conventional care regimens (p <0.0001).  
+ 
+In patients with one or more cytogenetic abnormalities at baseline, the percentage of patients with a 
+major cytogenetic response was similar to that of the groups treated with azacitidine and with regimens 
+combinations of conventional care. The minor cytogenetic response was statistically 
+significantly (p = 0.0015) higher in the azacitidine-treated group (34%), compared 
+with the group combined with conventional care guidelines (10%). 
+ 
+Adult population aged 65 years or older with AML with >30% marrow blasts  
+The results shown below refer to the intention-to-treat population of the 
+study AZA -AML -001 (see section 4.1 for approved indication).  
+ 
+The efficacy and safety of azacitidine were studied in an international phase III trial, 
+multicenter, controlled, open and with parallel groups in patients aged 65 years and over who suffered from 
+De novo or secondary AML, recently diagnosed, with >30% marrow blasts according to 
+classificationn from the WHO and who were not candidates for HSCT. Azacitidine plus best was compared 
+supportive care (BSC) (n = 241) with conventional care guidelines (PCC). The PCCs 
+consisted of BSC alone (n = 45), low-dose cytarabine plus BSC (n = 158), or chemotherapy 
+standard intensive with cytarabine and anthracycline plus BSC (n = 44). Before randomization, the 
+Patients were preselected by their physician for one of the three PCCs. The patients received the 
+preselected regimen if they were not randomized to receive azacitidine. As part of the criteria 
+At inclusion, patients were required to have an ECOG performance status of 0 to 2 and abnormalities 
+intermediate or unfavorable risk cytogenetics. The primary variable of the trial was 
+overall survival. 
+ 
+Azacitidine was administered subcutaneously at a dose of 75 mg/m2 daily for 7 days, followed by 
+a 21-day rest period (28-day treatment cycle), for a median of 6 cycles 
+(range: 1 to 28). Patients with BSC alone for a median of 3 cycles (range: 1 to 20), 
+patients with low-dose cytarabine for a median of 4 cycles (range: 1 to 25) and 
+patients with standard intensive chemotherapy for a median of 2 cycles (range: 1 to 3, cycle 
+induction plus 1 or 2 consolidation cycles).  
+ 15 Individual parameters at baseline were comparable between azacitidine treatment groups 
+and with the PCC. The median age of the subjects was 75.0 years (range: 64 to 91 years), 75.2% 
+were Caucasian and 59.0% were male. At the beginning and according to the WHO classification, the 
+AML in 60.7% of patients was classified as unspecified AML, 32.4% as AML 
+with changes related to myelodysplasia, 4.1% as myeloid-related neoplasms 
+with treatment and 2.9% as AML with recurrent genetic abnormalities.  
+ 
+In the ITT analysis of 488 patients (241 with azacitidine and 247 with PCC), treatment with 
+azacitidine was associated with a median survival of 10.4 months and PCC treatment with a 
+median of 6.5 months, a difference of 3.8 months, with a log-rank p value 
+stratified 0.1009 (two-sided). The risk ratio for the treatment effect 
+was 0.85 (95% CI = 0.69, 1.03). One-year survival rates were 46.5% in patients 
+treated with azacitidine and 34.3% in patients who received PCC.  
+ 
+ 
+The COX regression model adjusted for baseline prognostic factors previously 
+determined a hazard ratio for azacitidine of 0.80 (95% CI = 0.66, 0.99; 
+p = 0.0355) compared to CCRs.  
+ 
+Furthermore, although the study was not designed with sufficient statistical power to demonstrate a 
+statistically significant difference when comparing treatment with azacitidine with the groups of 
+treatment of preselected PCCs, the survival of patients treated with azacitidine was 
+higher compared to PCC treatment options consisting of BSC alone, 
+Low-dose cytarabine plus BSC and were similar compared to intensive chemotherapy 
+standard plus BSC. 
+ 
+In all previously specified subgroups [age (<75 years and ≥75 years), sex, race, state 
+ECOG performance [0, 1, and 2], baseline cytogenetic risk (intermediate and unfavorable), region 
+geographical, WHO classification of AML (including AML with changes related to 
+myelodysplasia), initial white blood cell count (≤5 x 109/l and >5 x 109/l), initial marrow blasts 
+(≤50% and >50%) and previous history of MDS], there was a trend in favor of azacitidine in 
+regarding the benefit in overall survival.  In a few pre-specified subgroups, the 
+hazard ratio for overall survival was statistically significant, including the 
+subgroups of patients with unfavorable cytogenetic risk, AML patients with changes 
+related to myelodysplasia, patients <75 years, female patients and patients 
+Caucasians.  
+ 
+Unstratified log rank = 0.0829, Stratified log rank p = 0.1009  
+Median sup.: Azacitidine = 10.4 (8.0, 12.7), PCC = 6.5 (5.0, 8.6)  
+Events N(%): Azacitidine = 193(80.1), PCC = 201(81.4)  
+Censored N(%): Azacitidine =48(19.9), PCC = 46(18.6)  
+Non-stratified risk ratio = 0.84 [95% CI: 0.69 – 1.02], Risk ratio  
+stratified = 0.85 [95% CI: 0.69 – 1.03]  
+Time (months) since randomization  
+Number at risk  
+CCR Tto Azacitidine CCR Censorship 1.0 
+0.9 
+0.8 
+0.7 
+0.6 
+0.5 
+0.4 
+0.3 
+0.2 
+0.1 
+0.0 Probability of survival  
+Azacitidine 16 Hematological and cytogenetic responses were evaluated by the investigator and by the CRI with 
+similar results. The overall response rate (complete remission [CR] + complete remission with 
+incomplete blood count recovery [ICR]) determined by the CRI was 27.8% in the 
+group treated with azacitidine and 25.1% in the combined groups treated with PCC 
+(p = 0.5384). In patients who achieved CR or CRi, the median duration of 
+remission was 10.4 months (95% CI = 7.2, 15.2) in subjects treated with azacitidine and 
+of 12.3 months (95% CI = 9.0, 17.0) in subjects treated with PCC.  It was also demonstrated a 
+survival benefit in patients who had not achieved a complete response 
+with azacitidine compared to PCC.  
+ 
+Azacitidine treatment improved peripheral blood counts and led to a decrease in 
+the need for red blood cell and platelet transfusions. One patient was considered to be 
+dependent on red blood cell or platelet transfusions at baseline if the subject had received one or 
+plus red blood cell or platelet transfusions during the 56 days (8 weeks) before 
+randomization. One patient was considered to be independent of red blood cell or blood transfusions. 
+platelets during the treatment period if the subject had not received red blood cell transfusions or 
+of platelets for 56 consecutive days during the reporting period, respectively.  
+ 
+Of the patients in the group treated with azacitidine dependent on red blood cell transfusions to the 
+At baseline, 38.5% (95% CI = 31.1, 46.2) of these patients became independent of the 
+red blood cell transfusions during the treatment period, compared to 27.6% 
+(95% CI = 20.9, 35.1) of patients in the combined groups treated with PCCs. In the 
+patients dependent on red blood cell transfusions at the beginning and who became 
+independent during treatment, the median duration of independence of the 
+red blood cell transfusions was 13.9 months in the group that received azacitidine, while in the 
+group treated with PCC was not reached.  
+ 
+Of the patients in the group treated with azacitidine dependent on platelet transfusions at 
+At the beginning, 40.6% (95% CI = 30.9, 50.8) of these patients became independent of the 
+platelet transfusions during the treatment period, compared to 29.3% 
+(95% CI = 19.7, 40.4) of patients in the combined groups treated with PCCs. In the 
+patients dependent on platelet transfusions at baseline and who achieved independence 
+transfusion during treatment, the median duration of transfusion independence 
+platelet count was 10.8 months in the group that received azacitidine and 19.2 months in the treated group 
+with the PCCs.  
+ 
+Health-related quality of life (HRQoL) was assessed using the generic questionnaire of the 
+quality of life of the European Organization for Research and Treatment of Cancer (EORTC 
+QLQ-C30). The C dVRS data could be analyzed in a subgroup of the total population of the 
+rehearsal. Although the analysis has limitations, the available data suggest that patients do not 
+They present a significant deterioration in quality of life during treatment with azacitidine. 
+ 
+Pediatric population  
+The AZA -JMML -001 study was a phase 2, international, multicenter, open-label study for 
+evaluate the pharmacokinetics, pharmacodynamics, safety and activity of azacitidine before 
+HSCT in pediatric patients with newly diagnosed JMML or advanced MDS. The objective 
+The main objective of the clinical study was to evaluate the effect of azacitidine on the response rate on day 28 of 
+cycle 3.  
+ 
+Patients (MDS, n = 10; JMML, n = 18, 3 months to 15 years; 71% male) received treatment 
+with 75 mg/m² azacitidine intravenously, daily on days 1 to 7 of a 28-day cycle 
+for a minimum of 3 cycles and a maximum of 6 ciEnrolment in the MDS study group was discontinued after 10 MDS patients 
+due to lack of efficacy: no confirmed response was recorded in these 10 patients. 
+17 In the LMMI study group, 18 patients were enrolled (13 somatic mutations of PTPN11, 3 
+of NRAS, 1 of KRAS and 1 clinical diagnosis of neurofibromatosis type 1 [NF-1]). Sixteen 
+patients completed 3 cycles of treatment and 5 of them completed 6 cycles. A total of 11 
+patients with LMMI had a clinical response on day 28 of cycle 3, of these 11 subjects, 9 
+(50%) subjects had a confirmed clinical response (3 subjects with complete clinical remission 
+[cCR] and 6 with partial clinical remission [pCR]). Among the cohort of JMML patients treated with azacitidine, 7 (43.8%) patients had a sustained platelet response (platelet counts ≥100 × 109 /L) and 7 (43.8%) patients required transfusions at the time of HSCT. Of 18 patients, 17 proceeded to HSCT. 
+
+Due to the study design (small number of patients and several confounders), it cannot be concluded from this clinical study whether azacitidine before HSCT improves overall survival in patients with JMML. 
+
+The AZA-AML-004 study was a phase 2, multicenter, open-label study to evaluate the safety, pharmacodynamics, and efficacy of azacitidine compared with no antineoplastic treatment in children and young adults with molecularly relapsed AML after CR1. 
+
+Seven patients (median age, 6.7 years [range, 2 to 12 years]; 71.4% male) received treatment with 100 mg/m² of azacitidine intravenously daily on days 1 through 7 of each 28-day cycle for up to 3 cycles. 
+
+Five patients achieved minimal residual disease (MRD) assessment at day 84, with 4 patients in molecular stabilization (n = 3) or molecular improvement (n = 1) and 1 patient in clinical relapse. Six of the 7 patients (90% [95% CI = 0.4; 1.0]) treated with azacitidine underwent hematopoietic stem cell transplantation (HSCT). 
+
+Because of the small sample size, the efficacy of azacitidine in pediatric AML cannot be determined. See section 4.8 for safety information.
+
+5.2 Pharmacokinetic properties
+
+Absorption
+Following subcutaneous administration of a single dose of 75 mg/m2, azacitidine was rapidly absorbed, with peak plasma concentrations of 750 ± 403 ng/ml occurring at 0.5 hours after administration (the first sampling point). The absolute bioavailability of azacitidine after subcutaneous administration relative to intravenous administration (single doses of 75 mg/m2) was approximately 89%, based on area under the curve (AUC).
+
+The area under the curve and maximum plasma concentration (Cmax) of subcutaneously administered azacitidine were approximately proportional over the dose range of 25 to 100 mg/m2. 
+
+Distribution 
+After intravenous administration, the mean volume of distribution was 76 ± 26 L, and systemic clearance was 147 ± 47 L/h. 
+
+Biotransformation 
+Based on in vitro data, azacitidine metabolism is not apparently mediated by cytochrome P45 0 (CYP) isoenzymes, UDP-glucuronosyltransferases (UGT), sulfotransferases (SULT), and glutathione transferases (GST). 
+
+Azacitidine undergoes spontaneous hydrolysis and deamination mediated by cytidine deaminase. In 
+human liver S9 fractions, metabolite formation was independent of NADPH, implying 
+that azacitidine metabolism was not mediated by cytochrome P450 isoenzymes. An 
+in vitro study of azacitidine with cultured human hepatocytes indicates that at 
+concentrations of 1.0 to 100 µM (i.e., up to approximately 30-fold higher concentrations than 18 achieved clinically), azacitidine does not induce CYP 1A2, 2C19, 3A4, or 3A5. In studies to evaluate the inhibition of a range of P45 0 isoenzymes (CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A4), azacitidine at concentrations up to 100 µM did not produce inhibition. Therefore, CYP enzyme induction or inhibition by azacitidine at clinically achievable plasma concentrations is unlikely.able  
+ 
+Elimination  
+Azacitidine is rapidly cleared from plasma, with a medium elimination half-life (t ½). 
+41 ± 8 minutes, after subcutaneous administration. There is no accumulation of 
+azacitidine after subcutaneous administration of 75 mg/m2 once daily for 7 days. excretion 
+Urinary is the main route of elimination of azacitidine and/or its metabolites. After the 
+intravenous and subcutaneous administration of 14C-azacytidine, 85% and 50% of the 
+administered radioactivity was recovered in the urine respectively, while <1% was recovered 
+in the feces.  
+ 
+Special populations  
+The effects of liver failure (see section 4.2), sex, 
+of age or race on the pharmacokinetic properties of azacitidine.  
+ 
+Pediatric population  
+In the AZA -JMML -001 study, pharmacokinetic analysis was determined from 10 patients 
+pediatrics with MDS and 18 with JMML on day 7 of cycle 1 (see section 5.1). The median age 
+(range) of patients with MDS was 13.3 (1.9 -15) years and 2.1 (0.2 -6.9) years for patients 
+with LMMJ.  
+ 
+After intravenous administration of a dose of 75 mg/m2, azacitidine rapidly reached the 
+Cmax within 0.083 hours in MDS and JMML populations. The geometric means of 
+Cmax were 1797.5 ng/m and 1066.3 ng/ml, and the geometric means of AUC0 -∞ were 606.9 
+ng∙h/ml and 240.2 ng∙h/ml, for patients with MDS and JMML, respectively. The geometric mean 
+The volume of distribution in subjects with MDS and JMML was 103.9 L and 61.1 L, respectively. 
+Total plasma exposure of azacitidine appeared to be higher in subjects with MDS; however, 
+Moderate to high interpatient variability was observed for AUC and Cmax.  
+ 
+The geometric means of t½ were 0.4 hours and 0.3 hours, and the geometric means of clearance 
+they were 166.4 l/h and 148.3 l/h for SMD and JMML, respectively.  
+ 
+Pharmacokinetic data from the AZA -JMML -001 study were combined and compared with data 
+Pharmacokinetics of 6 adult subjects with MDS administered 75 mg/m2 azacitidine  
+intravenously in the AZA -2002 -BA-002 study. The mean Cmax and AUC0 -t of azacitidine  
+were similar between adult patients and pediatric patients after administration 
+intravenous (2750 ng/ml vs. 2841 ng/ml and 1025 ng∙h/ml vs. 882.1 ng∙h/ml, respectively).  
+ 
+In the AZA -AML -004 study, pharmacokinetic analysis was determined from 6 of the 7 patients 
+pediatrics that had at least one measurable post-dose pharmacokinetic concentration 
+(see section 5.1). The median (range) age of AML patients was 6.7 (2 -12) years.  
+ 
+After administration of several doses of 100 mg/m2, the geometric mean of Cmax and AUC0 -tau 
+on day 7 of cycle 1 was 1557 ng/ml and 899.6 ng∙h/ml, respectively, and a high 
+intersubject variability (CV% of 201.6% and 87.8%, respectively). Azacitidine reached 
+Cmax rapidly, with a median time of 0.090 hours after intravenous administration, and 
+fell with a geometric mean t1/2 of 0.380 hours. The geometric means of clearance 
+and the volume of distribution were 127.2 l and 70.2 l, respectively.  
+ 
+The pharmacokinetic exposure (to azacitidine) observed in children with AML in molecular relapse after 
+RC1 was comparable to the exposure observed in the pooled data of 10 children with MDS and 18 
+children with JMML, as well as with azacitidine exposure in adults with MDS.  
+ 19 Kidney failure  
+Renal impairment has no significant effect on the pharmacokinetic exposure of azacitidine. 
+after single and multiple subcutaneous administrations. After subcutaneous administration 
+of a single dose of 75 mg/m2, the mean exposure values ​​(AUC and C max) of subjects with 
+mild, moderate and severe renal failure increased by 11-21%, 15-27% and 41-66% 
+respectively, compared to subjects with normal kidney function. However, the 
+exposure was within the same general range of exposures observed for subjects with the 
+normal kidney function. Azacitidine can be administered to patients with renal failure without the 
+need to adjust the initial dose whenever toxicity is monitored in thesepatients, since azacitidine and/or its metabolites are mainly excreted by the kidney.  
+ 
+Pharmacogenomics  
+The effect of known cytidine deaminase polymorphisms has not been formally investigated. 
+on the metabolism of azacitidine.  
+ 
+5.3 Preclinical safety data  
+ 
+Azacitidine induces gene mutations and chromosomal aberrations in bacterial and 
+mammalian cells in vitro. The carcinogenic potential of azacitidine was evaluated in mice and rats. 
+Azacitidine induced tumors of the hematopoietic system in female mice, when administered by 
+intraperitoneally, three times a week, for 52 weeks. In mice treated with azacitidine 
+administered intraperitoneally, for 50 weeks, an increase in the incidence of 
+tumors in the lymphoreticular system, lungs, mammary glands and skin. A study of 
+Tumorigenicity in rats revealed an increased incidence of testicular tumors.  
+ 
+Early embryotoxicity studies in mice revealed a 44% frequency of death 
+intrauterine embryonic mass (increased resorption), after a single injection, by 
+intraperitoneal, of azacitidine during organogenesis. Developmental anomalies were detected 
+brain in mice that received azacitidine during or before hard palate closure. In rats, 
+Azacitidine did not cause any adverse reactions when administered before implantation; without 
+However, it was clearly embryotoxic when administered during organogenesis. Between the 
+Fetal abnormalities during organogenesis in rats include the following: system abnormalities 
+central nervous system (exencephaly/encephalocele), limb abnormalities (micromelia, clubfoot, 
+syndactyly, oligodactyly) and others (microphthalmia, micrognathia, gastroschisis, edema and anomalies of the 
+ribs).  
+ 
+Administration of azacitidine to male mice prior to mating with female mice does not 
+treated resulted in a decrease in fecundity and the loss of progeny during development 
+embryonic and later postnatal. The treatment of male rats produced a decrease in the weight of 
+testicles and epididymis, decreased sperm counts, decreased 
+pregnancy rates, increased abnormal embryos, and increased embryo loss in 
+mated females (see section 4.4). 
+ 
+ 
+6. PHARMACEUTICAL DATA  
+ 
+6.1 List of excipients  
+ 
+Mannitol (E421)  
+ 
+6.2 Incompatibilities  
+ 
+This medicine should not be mixed with others, except those mentioned in section 6.6. 
+ 
+6.3 Validity period  
+ 
+Unopened vial of powder 20 3 years.  
+ 
+After reconstitution  
+When Azacitidine Accord is reconstituted with non-refrigerated water for injections, 
+has demonstrated the chemical and physical stability, in use, of the reconstituted medicinal product, at 25 ºC, 
+for 60 minutes, and at a temperature between 2 ºC and 8 ºC, for 8 hours.  
+ 
+The shelf life of the reconstituted medicine can be prolonged by reconstituting it with water. 
+for injectable preparations refrigerated (between 2 ºC and 8 ºC). When Azacitidine Accord is 
+reconstituted with refrigerated water for injections (between 2 ºC and 8 ºC), it has been shown 
+the chemical and physical stability, in use, of the reconstituted medicinal product, at a temperature between 2 ºC 
+and 8 ºC for 22 hours. 
+ 
+From a microbiological point of view, the reconstituted product should be used immediately. Yeah 
+not used immediately, storage times and conditions in use before use 
+They are the responsibility of the user and should not exceed 8 hours at a temperature between 2 ºC and 8 ºC 
+when reconstituted with water for injections not refrigerated, or not higher 
+to 22 hours when reconstituted with chilled water for injections 
+(between 2 ºC and 8 ºC). 
+ 
+6.4 Special storage precautions  
+ 
+Unopened vials  
+It does not require any special storage conditions.  
+ 
+Reconstituted suspension  
+For storage conditions after reconstitution of the medicinal product, see section 6.3. 
+ 
+6.5 Nature and content of the container  
+ 
+Colorless type I glass vial, sealed with butyl rubber closure cap and seal. 
+aluminum with plastic button, containing 100 mg or 150 mg of azacitidine. 
+ 
+Container size:   
+1 vial with 100 mg of Azacitidinto . 
+1 vial with 1 50 mg of Azacitidine. 
+ 
+Only certain pack sizes may be marketed.  
+ 
+6.6 Special precautions for disposal and other handling  
+ 
+Recommendations for safe handling  
+Azacitidine Accord is a cytotoxic medicinal product and, as with other potentially 
+toxic, caution should be exercised when handling and preparing azacitidine suspensions. They must be applied 
+Procedures for proper handling and disposal of anticancer medications.  
+If reconstituted azacitidine comes into contact with the skin, the area should be washed immediately and 
+bottom with soap and water. If it comes into contact with mucous membranes, it should be washed thoroughly with water.  
+ 
+Reconstitution procedure  
+Azacitidine Accord should be reconstituted with water for injections. The validity period 
+of the reconstituted medicinal product may be prolonged by reconstitution with water for preparations 
+refrigerated injectables (between 2 ºC and 8 ºC). Below is information about the 
+Conservation of the reconstituted medication.  
+ 
+1. The following elements must be assembled:  
+Azacitidine vial(s); vial(s) of water for injections; non surgical gloves 
+sterile; wipes moistened with alcohol; 5 ml injection syringes with needles.  21 2. The appropriate volume of water must be extracted for injectable preparations (see table below). 
+below) into the syringe, making sure to bleed any air trapped inside the syringe.  
+ 
+Vial with Volume of water for 
+injectable preparations Final concentration  
+100 mg 4 ml 25 mg/ml  
+150 mg 6 ml 25 mg/ml  
+ 
+3. The needle of the syringe containing the water for injections should be inserted 
+through the rubber stopper of the azacitidine vial; The water is then injected into the vial. 
+for injectable preparations.  
+4. After removing the syringe and needle, the vial should be shaken vigorously until a 
+uniform cloudy suspension. After reconstitution, each ml of suspension 
+will contain 25 mg of azacitidine (100 mg/4 ml or 150 mg/6 ml). The reconstituted product is a 
+cloudy and homogeneous suspension, without agglomerates. The suspension should be discarded if it contains 
+large particles or agglomerates. Do not filter the suspension after reconstitution as it 
+this could eliminate the active ingredient. It should be noted that some adapters, needles 
+for perfusion and closed systems contain filters; Therefore, these should not be used 
+systems for drug administration after reconstitution. 
+5. The rubber stopper should be cleaned and a new syringe with a needle inserted into the 
+road The vial should then be inverted, ensuring that the tip of the needle is 
+below the liquid level. Next, the plunger must be pulled back to extract the 
+amount of medication needed for the correct dose, making sure to purge the air 
+trapped inside the syringe. Next, the syringe with the needle and the 
+needle should be discarded.  
+6. Next, a new subcutaneous needle should be attached firmly to the syringe (it is 
+recommends 25 gauge) for injectables. The needle should not be purged before injection, unless 
+in order to reduce the incidence of local reactions at the injection site.  
+7. When more than 1 vial is needed, all previous steps for preparation should be repeated 
+of the suspension. For doses requiring more than 1 vial, the dose should be 
+divide into equal parts, e.g. 150 mg dose = 6 ml; two syringes with 3 ml in each 
+syringe.  Due to retention in the vial and needle, it may not be possible to remove all of the 
+vial suspension.  
+8. The contents of the dosing syringe should be resuspended immediately before administration. 
+administration. The syringe loaded with the reconstituted suspension should be allowed to reach 
+a temperature of approximately 20 ºC to 25 ºC for a maximum time of 30 minutes 
+before administration. If the elapsed time is more than 30 minutes, the suspension will be 
+It should be disposed of correctly and a new dose prepared.  To suspend again, do 
+Vigorously roll the syringe between the palms of your hands until you obtain a suspension 
+uniform and cloudy. The suspension should be discarded if it contains plarge items or agglomerates.  
+ 
+Storage of the reconstituted medicinal product  
+For storage conditions after reconstitution of the medicinal product, see section 6.3. 
+ 
+Calculation of an individual dose  
+The total dose, based on body surface area (BS), can be calculated as follows:  
+ 
+Total dose (mg) = dose (mg/m2) × SC (m2) 
+ 22 The following table is presented only as an example to calculate individual doses of azacitidine, 
+based on an average SC value of 1.8 m2. 
+ 
+Dose, mg/m2 
+(% of initial dose 
+recommended) Total dose based on a 
+SC value of 1.8 m2 Number of vials 
+necessary Total volume of 
+reconstituted suspension 
+required  
+  Vial of  
+100 mg Vial 
+150mg   
+75 mg/m2 (100%) 135 mg 2 vials 1 vial 5.4 ml 
+37.5 mg/m2 (50%) 67.5 mg 1 vial 1 vial 2.7 ml 
+25 mg/m2 (33%) 45 mg 1 vial 1 vial 1.8 ml 
+ 
+Administration method  
+Reconstituted Azacitidine Accord should be injected subcutaneously (insert the needle with a 
+angle of 45 to 90°), with a 25-gauge needle, in the arm, thigh, or abdomen.  
+ 
+Doses greater than 4 ml should be injected into two separate sites.  
+ 
+Injection sites should be rotated. The new injections must be administered 
+at least 2.5 cm away from the previous place and never in sensitive areas, with ecchymosis, 
+reddened or hardened.  
+ 
+Elimination  
+Disposal of unused medication and all materials that have been in contact 
+with it it will be carried out in accordance with local regulations.  
+ 
+ 
+7. MARKETING AUTHORIZATION HOLDER  
+ 
+Accord Healthcare S.L.U.  
+World Trade Center,  
+Moll de Barcelona, ​​s/n,  
+Est Building 6th floor,  
+08039 Barcelona, ​​Spain  
+ 
+ 
+8. MARKETING AUTHORIZATION NUMBER(S)  
+ 
+EU/1/19/1413/001  
+EU/1/19/1413/002  
+ 
+ 
+9. DATE OF FIRST AUTHORIZATION/RENEWAL OF THE 
+AUTHORIZATION  
+ 
+Date of first authorization: February 13, 2020  
+ 
+ 
+10. DATE OF TEXT REVISION  
+ 
+Detailed information on this medication is available on the Agency's website. 
+European Medicines Agency http://www.ema.europa.eu. 23  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX II  
+ 
+A. MANUFACTURER(S) RESPONSIBLE FOR THE RELEASE OF THE 
+LOTS  
+ 
+B. CONDITIONS OR RESTRICTIONS OF SUPPLY AND USE  
+ 
+C. OTHER CONDITIONS AND REQUIREMENTS OF THE AUTHORIZATION OF 
+COMMERCIALIZATION  
+ 
+D. CONDITIONS OR RESTRICTIONS REGARDING THE 
+SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT  
+ 24 A. MANUFACTURER (S) RESPONSIBLE FOR THE RELEASE OF THE LOTS  
+ 
+Name and address of the manufacturer(s) responsible for the release of the lots  
+ 
+Accord Healthcare Polska Sp.z.o.o.  
+Ul. Lutomierska 50,  
+95-200, Pabianice,  
+Poland  
+ 
+Dau Foundation Laboratory  
+C/ C, 12 -14 Pol. Ind.  
+Free Zone, Barcelona, ​​08040,  
+Spain  
+ 
+Accord Healthcare B.V.,  
+Winthontlaan 200,  
+3526 KV Utrecht,  
+Netherlands  
+ 
+The printed package insert for the medicine must indicate the name and address of the manufacturer 
+responsible for the release of the batch in question. 
+ 
+ 
+B. CONDITIONS OR RESTRICTIONS OF SUPPLY AND USE  
+ 
+Medication subject to restricted medical prescription (see Annex I: Technical Sheet or Summary of the 
+Product Features, section 4.2). 
+ 
+ 
+C. OTHER CONDITIONS AND REQUIREMENTS OF THE AUTHORIZATION OF 
+COMMERCIALIZATION  
+ 
+• Periodic security reports (IPSs)  
+The requirements for the presentation of the IPSs for this medicine are established in the list of 
+Union reference dates (EURD list) provided for in Article 107c(7) of the 
+Directive 2001/83/EC and any subsequent updates published on the European web portal on 
+medicines.  
+ 
+ 
+D. CONDITIONS OR RESTRICTIONS REGARDING USE 
+SAFE AND EFFECTIVE MEDICATION  
+ 
+• Risk management plan (PGR) 
+The MAH will carry out the necessary pharmacovigilance activities and interventions as agreed 
+in the version of the PGR included in Module 1.8.2 of the Marketing Authorization and in 
+any updates to the PGR that are subsequently agreed upon.  
+ 
+An updated PGR must be submitted:  
+• At the request of the European Medicines Agency.  
+• When the risk management system is modified, especially as a result of new 
+available information that may lead to relevant changes in the benefit/risk profile, or 
+as a result of achieving an important milestone(pharmacovigilance or minimization of 
+risks)  
+ 25  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX III  
+ 
+LABELING AND PACKAGE LEAFLET 26  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. LABELING 27  
+INFORMATION THAT SHOULD APPEAR ON THE OUTER PACKAGING  
+ 
+OUTER CARDBOARD  
+ 
+ 
+1. NAME OF THE MEDICINE  
+ 
+Azacitidine Accord 25 mg/ml powder for suspension for injection  
+azacitidine  
+ 
+ 
+2. ACTIVE PRINCIPLE(S)  
+ 
+Each vial contains 100 mg of azacitidine. After reconstitution, each ml of the suspension 
+contains 25 mg of azacitidine.  
+ 
+Each vial contains 150 mg of azacitidine. After reconstitution, each ml of the suspension 
+contains 25 mg of azacitidine.  
+ 
+ 
+3. LIST OF EXCIPIENTS  
+ 
+It also contains mannitol.  
+ 
+ 
+4. PHARMACEUTICAL FORM AND CONTENT OF THE PACKAGING  
+ 
+Powder for suspension for injection.  
+ 
+100 mg  
+150mg  
+ 
+1 vial  
+ 
+ 
+5. FORM AND ROUTE(S) OF ADMINISTRATION  
+ 
+Read the prospectus before using this medication.  
+For single use only. Shake the suspension vigorously before administration.  
+Subcutaneous route.  
+ 
+ 
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED 
+OUT OF THE SIGHT AND REACH OF CHILDREN  
+ 
+Keep out of the sight and reach of children.  
+ 
+ 
+7. OTHER SPECIAL WARNING(S), IF NECESSARY  
+ 
+Cytotoxic  
+ 
+ 28 8. EXPIRATION DATE  
+ 
+CAD  
+ 
+ 
+ 
+9. SPECIAL STORAGE CONDITIONS  
+ 
+ 
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF MEDICINAL PRODUCTS 
+USED ​​AND THE MATERIALS DERIVED FROM ITS USE, WHEN 
+APPLICABLE  
+ 
+Disposal of unused medication and all materials that have been in contact 
+with it it will be carried out in accordance with local regulations.  
+ 
+ 
+11. NAME AND ADDRESS OF THE HOLDER OF THE AUTHORIZATION OF 
+COMMERCIALIZATION  
+ 
+Accord Healthcare S.L.U.  
+World Trade Center,  
+Moll de Barcelona, ​​s/n,  
+Est Building 6th floor,  
+08039 Barcelona, ​​Spain  
+ 
+ 
+12. MARKETING AUTHORIZATION NUMBER(S)  
+ 
+EU/1/19/1413/001  
+EU/1/19/1413/002  
+ 
+ 
+13. LOT NUMBER  
+ 
+Batch 
+ 
+ 
+14. GENERAL CONDITIONS OF DISPENSATION  
+ 
+Medicine provided with medical prescription  
+ 
+ 
+15. INSTRUCTIONS FOR USE  
+ 
+ 
+16. INFORMATION IN BRAILLE  
+ 
+The justification for not including the information in Braille is accepted.  
+ 
+ 
+17. UNIQUE IDENTIFIER - 2D BARCODE 
+ 
+2D barcode containing the unique identifier  
+ 29  
+18. UNIQUE IDENTIFIER - INFORMATION IN VISUAL CHARACTERS  
+ 
+PC: 
+SN: 
+NN: 30 MINIMUM INFORMATION THAT SHOULD BE INCLUDED IN SMALL 
+PRIMARY CONDITIONINGS  
+ 
+VIAL LABEL  
+ 
+ 
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION  
+ 
+Azacitidine Accord 25 mg/ml powder for suspension for injection  
+azacitidine  
+Subcutaneous (SC) route 
+ 
+ 
+2. FORM OF ADMINISTRATION  
+ 
+ 
+3. EXPIRATION DATE  
+ 
+EXP  
+ 
+ 
+4. LOT NUMBER  
+ 
+lots 
+ 
+ 
+5. CONTENT BY WEIGHT, BY VOLUME OR IN UNITS  
+ 
+100 mg 
+150mg 
+ 
+ 
+6. OTHERS  
+ 31  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. LEAFLET 32 Leaflet: information for the user  
+ 
+Azacitidine Accord 25 mg/ml powder for suspension for injection  
+azacitidine  
+ 
+Read the entire leaflet carefully before you start using this medicine, because 
+contains important information for you. 
+- Keep this leaflet, as you may need to read it again.  
+- If you have any questions, consult your doctor, pharmacist or nurse. 
+- If you experience any side effects, talk to your doctor, pharmacist or nurse, even if you 
+These are side effects that are not listed in this leaflet. See section 4. 
+ 
+Leaflet content  
+1. What Azacitidine Accord is and what it is used for  
+2. What you need to know before you start using Azacitidine Accord  
+3. How to use Azacitidine Accord  
+4. Possible adverse effects  
+5 How to store Azacitidine Accord  
+6. Contents of the packaging and additional information  
+ 
+ 
+1. What Azacitidine Accord is and what it is used for  
+ 
+What is Azacitidine Accord  
+Azacitidine Accord is an anticancer agent that belongs to a group of medicines called 
+“antimetabolites”. Azacitidine Accord contains the active ingredient “azacitidine”. 
+ 
+What Azacitidine Accord is used for  
+Azacitidine Accord is used in adults who cannot receive a stem cell transplant to 
+treat:  
+- Higher risk myelodysplastic syndromes (MDS).  
+- Chronic myelomonocytic leukemia (CMML).  
+- Acute myeloid leukemia (AML).  
+ 
+These diseasesconnect to the bone marrow and can cause problems in the normal production of 
+blood cells.  
+ 
+How Azacitidine Accord works  
+Azacitidine Accord works by preventing the growth of cancer cells. Azacitidine is incorporated 
+to the genetic material of cells (ribonucleic acid [RNA] and deoxyribonucleic acid [DNA]). HE 
+It is believed to work by altering the way cells turn genes on or off by interfering with the 
+production of new RNA and DNA. These actions are believed to correct ripening problems. 
+and growth of healthy blood cells in the bone marrow that cause the disorders 
+myelodysplastic, and that kill cancer cells in leukemia.  
+Ask your doctor or nurse if you have any questions about how Azacitidine Accord or 
+why you have been prescribed this medication.  
+ 
+ 
+2. What you need to know before you start using Azacitidine Accord  
+ 
+Do not use Azacitidine Accord  
+• If you are allergic to azacitidine or any of the other ingredients of this medicine 
+(included in section 6). 
+• If you have advanced liver cancer.  
+• During the breastfeeding period.  
+ 33 Warnings and precautions  
+Talk to your doctor, pharmacist or nurse before using Azacitidine Accord: 
+- If you have a decreased count of platelets, red blood cells or white blood cells.  
+- If you have kidney disease.  
+- If you have liver disease.  
+- If you have ever had heart disease or a myocardial infarction, or have 
+history of lung disease  
+ 
+Azacitidine can cause a serious immune reaction called “differentiation syndrome” (see 
+section 4). 
+ 
+Blood test  
+Before starting treatment with Azacitidine Accord and at the beginning of each treatment period 
+(called a “cycle”) you will have blood tests. This is done to verify that you have a 
+enough blood cells and that your liver and kidneys are working properly.  
+ 
+Children and adolescents  
+The use of Azacitidine Accord is not recommended in children and adolescents under 18 years of age.  
+ 
+Other medicines and Azacitidine Accord  
+Tell your doctor or pharmacist if you are using, have recently used or might use 
+use any other medication. This is because Azacitidine Accord may affect the way 
+in which other medications act. Also, other medications can affect the way 
+Azacitidine Accord works.  
+ 
+Pregnancy, lactation and fertility  
+ 
+Pregnancy  
+You should not use Azacitidine Accord during pregnancy because it may be harmful to the baby.  
+If you are a woman and can become pregnant, you should use effective contraception while 
+take Azacitidine Accord and for 6 months after finishing treatment with Azacitidine Accord. 
+Tell your doctor immediately if you become pregnant during treatment.  
+ 
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to 
+become pregnant, consult your doctor or pharmacist before using this medicine.  
+ 
+Lactation  
+Azacitidine Accord should not be used during breast-feeding. It is unknown if this medication passes into the 
+breastmilk.  
+ 
+Fertility  
+Men should not conceive a child while receiving treatment with Azacitidine Accord. The 
+Men should use effective contraception while taking Azacitidine Accord and  
+for 3 months after completing treatment with Azacitidine Accord. 
+ 
+Consult your doctor if you want to preserve your sperm before you are given this 
+treatment.  
+ 
+Driving and using machines  
+Do not drive or use tools or machines if you experience adverse effects, such as 
+fatigue . 
+ 
+ 
+3. How to use Azacitidine Accord  
+ 
+Before you are given Azacitidine Accord, your doctor will give you another medicine to prevent 
+nausea and vomiting at the beginning of each treatment cycle. 3. 4  
+- The recommended dose is 75 mg/m2 of body surface. Your doctor will decide your dose 
+of this medicine depending on your general condition, height and weight. His 
+Your doctor will monitor your progress and may change your dose if necessary.  
+- Azacitidine Accord is administered every day for one week, followed by a 
+rest period of three weeks. This “treatment cycle” will be repeated every four 
+weeks. You will receive, foror generally, at least six treatment cycles.  
+ 
+A doctor or nurse will give you this medicine as an injection under the skin (via 
+subcutaneous). It can be given under the skin of the thigh, abdomen, or arm (above 
+Of elbow).  
+ 
+If you have any other questions about the use of this medicine, ask your doctor, pharmacist or 
+nurse.  
+ 
+ 
+4. Possible adverse effects  
+ 
+Like all medicines, this medicine can cause side effects, although they do not 
+all people suffer from them.  
+ 
+Tell your doctor immediately if you notice any of the following side effects:  
+- Drowsiness, tremors, jaundice, abdominal bloating and ease of 
+bruises come out. They may be symptoms of liver failure and may be 
+potentially fatal.  
+- Swelling of legs and feet, back pain, decreased urine output, 
+increased thirst, rapid pulse, dizziness and nausea, vomiting or decreased appetite and 
+feeling of confusion, restlessness or fatigue. They may be symptoms of kidney failure and 
+can be life threatening.  
+- Fever. It could be due to an infection as a result of having low amounts of 
+white blood cells, which can be life-threatening. 
+- Chest pain or difficulty breathing that may be accompanied by fever. Can 
+be due to a lung infection known as “pneumonia” and can potentially be 
+deadly. 
+- Bleeding. For example, blood in the stool, due to bleeding in the stomach or 
+intestines, or bleeding inside the head. These may be symptoms of having high levels 
+low platelets in the blood. 
+- Difficulty breathing, swelling of the lips, itching or skin rash. They can 
+be due to an allergic reaction (hypersensitivity).  
+ 
+Other adverse effects include: 
+ 
+Very common side effects (may affect more than 1 in 10 people)  
+- Decreased red blood cell count (anemia). You may feel tired and pale.  
+- Decreased white blood cell count. It may be accompanied by fever. You have 
+also a greater probability of suffering from infections.  
+- Low blood platelet count (thrombocytopenia). You are more prone to 
+hemorrhages and bruises.  
+- Constipation, diarrhea, nausea, vomiting.  
+- Pneumonia. 
+- Chest pain, difficulty breathing.  
+- Tiredness (fatigue).  
+- Reaction at the injection site, including redness, pain, or a reaction 
+cutaneous.  
+- Loss of appetite.  
+- Joint pain.  
+- Bruises.  35 - Skin rash.  
+- Red or purple spots under the skin.  
+- Pain in the abdomen.  
+- Itching.  
+- Fever.  
+- Nose and throat pain.  
+- Dizziness.  
+- Headache.  
+- Problems falling asleep (insomnia).  
+- Nasal bleeding (epistaxis).  
+- Muscle pains.  
+- Weakness (asthenia).  
+- Weightloss.  
+- Low potassium concentrations in the blood.  
+ 
+Common side effects (may affect up to 1 in 10 people)  
+- Bleeding inside the head.  
+- Blood infection caused by bacteria (sepsis). It may be due to low amounts of 
+white blood cells in the blood.  
+- Bone marrow failure. It can cause low numbers of red and white blood cells, 
+and platelets.  
+- A type of anemia in which there is a decrease in red and white blood cells, and 
+platelets.  
+- Urine infection.  
+- A viral infection that causes herpes-like lesions.  
+- Bleeding gums, bleeding from the stomach or intestine, bleeding in the lower area 
+of the back due to hemorrhoidal bleeding, bleeding in the eyes, bleeding under 
+the skin or inside the skin (hematoma).  
+- Blood in the urine.  
+- Ulcers in the mouth or tongue.  
+- Changes in the skin, at the injection site. These may be swelling, a lump 
+hard, bruising, bleeding into the skin (hematoma), rash, itching and changes in 
+The color of the skin. 
+- Redness of the skin.  
+- Skin infection (cellulitis).  
+- Nose and throat infection, or sore throat.  
+- Pain or heavy discharge from the nose or sinuses (sinusitis).  
+- High or low blood pressure (hypertension or hypotension).  
+- Difficulty breathing when moving.  
+- Pain in the throat and larynx.  
+- Indigestion.  
+- Drowsiness (lethargy).  
+- Feeling unwell.  
+- Anxiety.  
+- Feeling of confusion.  
+- Lossof hair.  
+- Renal insufficiency.  
+- Dehydration.  
+- White layer that covers the tongue, the inside of the cheeks and, sometimes, the palate, the 
+gums and tonsils (mouth fungal infection). 
+- Fainting . 
+- Decrease in blood pressure when standing up (orthostatic hypotension) that produces 
+dizziness when standing or sitting. 
+- Sleep, drowsiness (drowsiness). 
+- Bleeding due to a catheter line. 
+- A disease that affects the intestine that can cause fever, vomiting and pain 
+stomach (diverticulitis).  36 - Fluid around the lungs (pleural effusion).  
+- Shivering (chills).  
+- Muscle spasms.  
+- Itchy skin rash (hives).  
+- Accumulation of fluid around the heart (pericardial effusion).  
+ 
+Uncommon side effects (may affect up to 1 in 100 people)  
+- Allergic reaction (hypersensitivity).  
+- Tremors.  
+- Liver failure.  
+- Painful, large, raised, plum-colored spots on the skin and fever. 
+- Painful skin ulcers (pyoderma gangrenosum).  
+- Inflammation of the lining around the heart (pericarditis).  
+ 
+Rare side effects (may affect up to 1 in 1,000 people)  
+- Dry cough.  
+- Painless swelling of the fingertips (clubbed fingers).  
+- Tumor lysis syndrome – metabolic complications may occur during 
+cancer treatment and sometimes even without treatment. These complications are 
+produced as a consequence of the product of tumor cells that die and 
+may include: changes in blood biochemistry, high levels of potassium, phosphorus, 
+uric acid and low calcium levels, which therefore lead to changes in kidney function 
+and heart rate, seizures, and sometimes death.  
+ 
+Frequency not known (cannot be estimated from available data)  
+- Infection of the deep layers of the skin, which spreads rapidly, damaging the skin and 
+tissue, which can be life-threatening (necrotizing fasciitis).  
+- Severe immune reaction (differentiation syndrome) that can cause fever, cough, 
+difficulty breathing, rash, decreased urination, low blood pressure 
+(hypotension), swelling of the arms or legs, and rapid weight gain.  
+- Inflammation of blood vessels in the skin that can cause a skin rash 
+(cutaneous vasculitis)  
+ 
+Reporting of adverse effects  
+If you experience any side effects, talk to your doctor, pharmacist or nurse. 
+even if these are possible side effects that are not listed in this leaflet.  also can 
+communicate them directly through the national notification system included in Appendix V. 
+By reporting side effects you can help provide more information 
+about the safety of this medication.  
+ 
+ 
+5. Storage of Azacitidine Accord  
+ 
+Keep this medicine out of the sight and reach of children.  
+ 
+Do not use this medicine after the expiry date which is stated on the vial label and on the 
+box . The expiration date is the last day of the month indicated.  
+ 
+Your doctor, pharmacist or nurse is responsible for storing Azacitidine Accord. 
+They are also responsible for the correct preparation and disposal of Azacitidine Accord that is not 
+use.  
+ 
+Unopened vials of this medication do not require special storage conditions.  
+ 
+If used immediately  
+The suspension should be administered within 60 minutes of preparation.  
+ 37 If used later  
+If Azacitidine Accord suspension is prepared using water for injections, do not 
+refrigerated, the suspension should be placed in the refrigerator (between 2 ºC and 8 ºC) immediately after 
+its preparation and should be kept in the refrigerator for a maximum of 8 hours. 
+If Azacitidine Accord suspension is prepared using water for injections 
+refrigerated (between 2 ºC and 8 ºC), the suspension should be placed in the refrigerator (between 2 ºC and 8 ºC) 
+immediately after preparation and should be kept in the refrigerator for up to 22 hours. 
+maximum . 
+ 
+The suspension should be allowed to reach a room temperature of 20ºC to 25ºC for a period of time. 
+maximum time of 30 minutes before administration.  
+ 
+The suspensione should be discarded if it contains large particles.  
+ 
+ 
+6. Contents of the packaging and additional information  
+ 
+Composition of Azacitidine Accord  
+• The active ingredient is azacitidine. One vial contains 100 mg or 150 mg of azacitidine. After 
+reconstitution with 4 ml or 6 ml of water for injections, suspension 
+Reconstituted contains 25 mg/ml azacitidine. 
+• The other component is mannitol (E421).  
+ 
+Appearance of the product and contents of the packaging  
+Azacitidine Accord is a white powder for suspension for injection and is supplied in a glass vial. 
+containing 100 mg or 150 mg of azacitidine.   
+ 
+Pack sizes  
+1 vial with 100 mg of azacitidine.  
+1 vial with 150 mg of azacitidine  
+ 
+Marketing Authorization Holder  
+ 
+Accord Healthcare S.L.U.  
+World Trade Center,  
+Moll de Barcelona, ​​s/n,  
+Est Building 6th floor,  
+08039 Barcelona, ​​Spain  
+ 
+Manufacturing Manager  
+Accord Healthcare Polska Sp.z o.o.  
+ul. Lutomierska 50,  
+95-200 Pabianice  
+Poland  
+ 
+EITHER 
+Dau Foundation Laboratory  
+C/ C, 12 -14 Pol. Ind.  
+Free Zone, Barcelona, ​​08040,  
+Spain  
+ 
+EITHER 
+Accord Healthcare B.V.,  
+Winthontlaan 200,  
+3526 KV Utrecht,  
+Netherlands  
+ 38 Date of last revision of this leaflet: {MM/YYYY}.  
+ 
+Detailed information about this medicine is available on the European Agency website. 
+of Medications:  
+http://www.ema.europa.eu/. There are also links to other websites on rare diseases and 
+orphan drugs.  
+ 
+ 
+-------------------------------------------------- -------------------------------------------------- ------------------  
+This information is intended only for professionals in the healthcare sector:  
+ 
+Recommendations for safe handling  
+Azacitidine Accord is a cytotoxic medicinal product and, as with other potentially 
+toxic, caution should be used when handling and preparing azacitidine suspensions. They must be applied 
+Procedures for proper handling and disposal of anticancer medications.  
+ 
+If reconstituted azacitidine comes into contact with the skin, the area should be washed immediately and 
+bottom with soap and water. If it comes into contact with mucous membranes, it should be washed thoroughly with water.  
+ 
+Incompatibilities  
+This medicine should not be mixed with others, except those mentioned below (see 
+“Reconstitution procedure” ). 
+ 
+Reconstitution procedure  
+Azacitidine Accord should be reconstituted with water for injections. The validity period 
+of the reconstituted medicinal product may be prolonged by reconstitution with water for preparations 
+refrigerated injectables (between 2 ºC and 8 ºC). Below is information about the 
+Conservation of the reconstituted medication.  
+ 
+1. The following elements must be assembled:  
+Azacitidine vial(s); vial(s) of water for injections; non surgical gloves 
+sterile; wipes moistened with alcohol; 5 ml injection syringes with needles.  
+2. The appropriate volume of water for injections should be drawn into the syringe, 
+making sure to bleed any air trapped inside the syringe.  
+ 
+Vial with Volume of water for 
+injectable preparations Final concentration  
+100 mg 4 ml 25 mg/ml  
+150 mg 6 ml 25 mg/ml  
+ 
+3. The needle of the syringe containing the water for injections must be 
+introduce through the rubber stopper of the azacitidine vial; then injected into the vial 
+water for injections.  
+4. After removing the syringe and needle, the vial should be shaken vigorously until a 
+uniform cloudy suspension. After reconstitution, each ml of suspension 
+will contain 25 mg of azacitidine (100 mg/4 ml or 150 mg/6 ml). The reconstituted product is a 
+cloudy and homogeneous suspension, without agglomerates. The suspension should be discarded if it contains 
+large particles or agglomerates. Do not filter the suspension after reconstitution as it 
+this could eliminate the active ingredient. It should be noted that some adapters, needles 
+for perfusion and closed systems contain filters; Therefore, these should not be used 
+systems for drug administration after reconstitution.  
+5. The rubber stopper should be cleaned and a new syringe with a needle inserted into the vial. TO 
+The vial should then be inverted, ensuring that the tipa of the needle is below 
+of the liquid level. Next, the plunger must be pulled back to extract the amount 
+of medication needed for the correct dose, making sure to purge any air trapped inside 
+of the syringe. The syringe with the needle should then be removed from the vial and the needle should be 
+discard.  39 6. Next, a new subcutaneous needle should be attached firmly to the syringe (it is 
+recommends 25 gauge) for injectables. The needle should not be purged before injection, unless 
+in order to reduce the incidence of local reactions at the injection site.  
+7. When more than 1 vial is needed, all previous steps for preparation should be repeated 
+of the suspension. For doses requiring more than 1 vial, the dose should be 
+divide into equal parts, e.g. 150 mg dose = 6 ml; two syringes with 3 ml in each 
+syringe.  Due to retention in the vial and needle, it may not be possible to remove all of the 
+vial suspension.  
+8. The contents of the dosing syringe should be resuspended immediately before administration. 
+administration. The temperature of the suspension at the time of injection should be 
+approximately 20 ºC to 25 ºC. To re-suspend, vigorously roll the syringe between 
+the palms of the hands, until obtaining a uniform and cloudy suspension. The suspension is due 
+discard if it contains large particles or agglomerates.  
+ 
+Storage of the reconstituted medicinal product  
+ 
+For immediate use  
+Azacitidine Accord suspension may be prepared immediately before use and 
+Reconstituted suspension should be administered within 60 minutes. If the elapsed time is 
+longer than 60 minutes, the reconstituted suspension must be disposed of properly and prepared 
+a new dose.  
+ 
+For later use  
+When reconstituted with unrefrigerated water for injections, the suspension 
+reconstituted should be placed in a refrigerator (temperature between 2 ºC and 8 ºC) immediately after 
+reconstitution, and should be kept in the refrigerator for a maximum of 8 hours. If the time 
+elapsed in the refrigerator is greater than 8 hours, the suspension must be disposed of correctly and must be 
+prepare a new dose.  
+ 
+When reconstituted with chilled water for injections (2°C to 8°C), the 
+Reconstituted suspension should be placed in a refrigerator (between 2°C and 8°C) immediately after 
+reconstitution, and should be kept in the refrigerator for a maximum of 22 hours. If the time 
+spent in the refrigerator is greater than 22 hours, the suspension must be disposed of properly and 
+You must prepare a new dose.  
+ 
+The syringe filled with the reconstituted suspension should be allowed to reach a temperature of 
+approximately 20ºC to 25ºC for a maximum of 30 minutes before administration. 
+If the elapsed time is more than 30 minutes, the suspension must be disposed of properly and 
+You must prepare a new dose.  
+ 
+Calculation of an individual dose  
+The total dose, based on body surface area (BS), can be calculated as follows:  
+ 
+Total dose (mg) = dose (mg/m2) × SC (m2) 
+ 
+The following table is presented only as an example to calculate individual doses of azacitidine, 
+based on an average SC value of 1.8 m2. 
+ 
+Dose, mg/m2 
+(% of initial dose 
+recommended) Total dose based on a 
+SC value of 1.8 m2 Number of vials 
+necessary Total volume of 
+reconstituted suspension 
+required  
+  Vial of  
+100 mg Vial 
+150mg   
+75 mg/m2 (100%) 135 mg 2 vials 1 vial 5.4 ml 
+37.5 mg/m2 (50%) 67.5 mg 1 vial 1 vial 2.7 ml 
+25 mg/m2 (33%) 45 mg 1 vial 1 vial 1.8 ml 
+ 40 Method of administration  
+Do not filter the suspension after reconstitution.  
+ 
+Reconstituted Azacitidine Accord should be injected subcutaneously (insert the needle with a 
+angle of 45 to 90°), with a 25-gauge needle, in the arm, thigh, or abdomen.  
+ 
+Doses greater than 4 ml should be injected into two separate sites.  
+ 
+Injection sites should be rotated. The new injections must be administered 
+at least 2.5 cm away from the previous place and never in sensitive areas, with ecchymosis, 
+reddened or hardened.  
+ 
+Elimination  
+Disposal of unused medication and all materials that have been in contact 
+with it it will be doneaccording to local regulations.
