@@ -100,7 +100,7 @@ st.title("PDF Processor and Information Extractor with Chatbot")
 uploaded_file = st.file_uploader("Choose a PDF file", type="pdf")
 
 # API Key input
-api_key = 'AIzaSyBadEeM5EjBVZXFYXra1OfuETuwCjrJweU'
+api_key = 'provide your gemini api key'
 
 if 'english_text' not in st.session_state:
     st.session_state.english_text = ""
